@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it8bit.com%2Fpost%2F188768767558%2Fchill-mario-gif-by-pixel-jeff-ig&psig=AOvVaw1XcBO8n0S2gmBChKkYtwni&ust=1713728101641000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC2o-vE0YUDFQAAAAAdAAAAABAE)]
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.it8bit.com%2Fpost%2F188768767558%2Fchill-mario-gif-by-pixel-jeff-ig&psig=AOvVaw1XcBO8n0S2gmBChKkYtwni&ust=1713728101641000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC2o-vE0YUDFQAAAAAdAAAAABAE">
 <h1 align="center">Hi 👋, I'm Akhshay T P</h1>
 <b><h3 align="center">A passionate Cybersecurity/Networking/Pentesting Fanatic from India</h3></b>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEgUx&psig=AOvVaw1-J2K_sMK83si5UQkj1MY5&ust=1713728264140000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDLs7XF0YUDFQAAAAAdAAAAABAp">
