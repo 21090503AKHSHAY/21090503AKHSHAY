@@ -1,7 +1,7 @@
-<img src="https://images.app.goo.gl/YYwMfShaCDy76q9C6">
+<img src="/gifs/anon-ak.gif">
 <h1 align="center">Hi 👋, I'm Akhshay T P</h1>
 <b><h3 align="center">A passionate Cybersecurity/Networking/Pentesting Fanatic from India</h3></b>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEgUx&psig=AOvVaw1-J2K_sMK83si5UQkj1MY5&ust=1713728264140000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDLs7XF0YUDFQAAAAAdAAAAABAp">
+<img align="right" alt="Coding" width="400" src="/gifs/hacker.gif">
 
 - 🔭 I’m currently working on **Security Info’s on Hovering the URL’s and opening the illegitimate File/Folders in the Virtual Machine from Web - Browser**
 
