@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/21090503AKHSHAY/21090503AKHSHAY/assets/90953087/a73dfc36-765b-4ea4-a2e4-ce81867518b6)
-">
+<img src="https://images.app.goo.gl/YYwMfShaCDy76q9C6">
 <h1 align="center">Hi 👋, I'm Akhshay T P</h1>
 <b><h3 align="center">A passionate Cybersecurity/Networking/Pentesting Fanatic from India</h3></b>
 <img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FEgUx&psig=AOvVaw1-J2K_sMK83si5UQkj1MY5&ust=1713728264140000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDLs7XF0YUDFQAAAAAdAAAAABAp">
