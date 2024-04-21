@@ -25,10 +25,10 @@
    [AWS, Proxmax (VE) ] to host machine, CPU Freezer , Live Booting , NAS [As
    Local Host Machine] , Proxmox , Kasm , API , Web Status codes , Python Script [ Response Modules
    etc...] ,HTML,CSS, Java Script, MERN, GitHub, Toolkit.
-</p><br>
+   </p><br>
 **Smart Vechile Lock System**
-<p><h6>Tech Used:</h6>
- IoT devices, Embedded programming C , MCU ‘s</p><br>
+  <p><h6>Tech Used:</h6>
+  IoT devices, Embedded programming C , MCU ‘s</p><br>
 
 
 
