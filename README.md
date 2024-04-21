@@ -1,11 +1,37 @@
 <img src="/gifs/anon-ak.gif">
 <h1 align="center">Hi 👋, I'm Akhshay T P</h1>
-<b><h3 align="center">A passionate Cybersecurity/Networking/Pentesting Fanatic from India</h3></b>
+<b><h3 align="center">A passionate Cybersecurity/Networking/Pentester/Proud Linux user from India</h3></b>
 <img align="right" alt="Coding" width="400" src="/gifs/hacker.gif">
 
-- 🔭 I’m currently working on **Security Info’s on Hovering the URL’s and opening the illegitimate File/Folders in the Virtual Machine from Web - Browser**
+- 👨🏻‍💻 I’m currently working/Intern on
+  ** Cyfotok - Pentesting/Bug Hunting ** <br>
+  <p> Delving into Ethical Hacking and Bug Hunting. Immersed in
+      Pentesting Tools and Security concepts . Such as,
+      OSINT , OWASP, Penetration Testing, Exploitation, Vulnerability Assessment, Social Engineering
+      Wireless Network Security,Cryptanalysis,Forensics,Secure Coding Practices, Incident Response,
+      Security Policies and Procedures </p><br>
 
-- 🌱 I’m currently learning **isc2 [CC] , CEH**
+    ** YouTube - Technical Content Creator ** <br>
+    <p> Uploading videos related to Computer
+        Network & Security, Linux , PC Building, Web
+        Developing and Tech related videos. Scaled
+        YouTube channel to 115+ Subscribers </p>
+        <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a>
+
+      
+
+- 🔭 My Project
+- **Security Info’s on Hovering the URL’s and opening the illegitimate File/Folders in the Virtual Machine from Web - Browser [SandBox] **
+  <p><h3>Tech Uesd:</h3><br>
+    Networking [RDP, SSH, LPORT etc..],Docker [Container , Images Files] , Cloud
+   [AWS, Proxmax (VE) ] to host machine, CPU Freezer , Live Booting , NAS [As
+   Local Host Machine] , Proxmox , Kasm , API , Web Status codes , Python Script [ Response Modules
+   etc...] ,HTML,CSS, Java Script, MERN, GitHub, Toolkit.
+</p><br>
+
+
+
+- 🌱 I’m currently learning **isc2 [CC] , CEH , B.E C.S.E [I year]**
 
 - 💬 Ask me about **Computer Networking,Linux [Debian Distro’s] , Ethical Hacking ,Network Protocols ,Computer Security , Pentesting Tool , PC Building Computer, Hardware & Troubleshooting , Scripting Languages , Frontend Web App**
 
