@@ -41,7 +41,7 @@
 
 
 
-- 📄 Know about my experiences / Resume / CV  [aiapply.co/r/6624174a942d9](https://bit.ly/4da1pOb)
+- 📄 Know about my experiences / Resume / CV  [Resume](https://bit.ly/4da1pOb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
