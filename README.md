@@ -1,6 +1,6 @@
 <img src="/gifs/anon-ak.gif">
 <h1 align="center">Hi 👋, I'm Akhshay T P</h1>
-<b><h3 align="center">A passionate Cybersecurity/Networking/Pentester/Proud Linux user from India</h3></b>
+<b><h3 align="center">A passionate Cybersecurity/Networking/Pentester/Proud Linux user from India</h3></b> <br>
 <img align="right" alt="Coding" width="400" src="/gifs/hacker.gif">
 
 - 👨🏻‍💻 I’m currently working/Intern on
@@ -15,8 +15,8 @@
     <p> Uploading videos related to Computer
         Network & Security, Linux , PC Building, Web
         Developing and Tech related videos. Scaled
-        YouTube channel to 115+ Subscribers </p>
-        <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a>
+        YouTube channel to 115+ Subscribers . <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a> </p> <br>
+ 
 
       
 
