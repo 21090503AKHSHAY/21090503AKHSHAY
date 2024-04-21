@@ -9,19 +9,17 @@
       Pentesting Tools and Security concepts . Such as,
       OSINT , OWASP, Penetration Testing, Exploitation, Vulnerability Assessment, Social Engineering
       Wireless Network Security,Cryptanalysis,Forensics,Secure Coding Practices, Incident Response,
-      Security Policies and Procedures </p><br>
+      Security Policies and Procedures </p>
 
     ** YouTube - Technical Content Creator ** <br>
     <p> Uploading videos related to Computer
         Network & Security, Linux , PC Building, Web
         Developing and Tech related videos. Scaled
         YouTube channel to 115+ Subscribers . <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a> </p> <br>
+
  
-
-      
-
 - 🔭 My Project
-- **Security Info’s on Hovering the URL’s and opening the illegitimate File/Folders in the Virtual Machine from Web - Browser [SandBox] **
+ **Security Info’s on Hovering the URL’s and opening the illegitimate File/Folders in the Virtual Machine from Web - Browser [SandBox] **
   <p><h3>Tech Uesd:</h3><br>
     Networking [RDP, SSH, LPORT etc..],Docker [Container , Images Files] , Cloud
    [AWS, Proxmax (VE) ] to host machine, CPU Freezer , Live Booting , NAS [As
@@ -39,7 +37,7 @@
 
 
 
-- 📄 Know about my experiences [aiapply.co/r/6624174a942d9](aiapply.co/r/6624174a942d9)
+- 📄 Know about my experiences / Resume / CV  [aiapply.co/r/6624174a942d9](https://bit.ly/4da1pOb)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
