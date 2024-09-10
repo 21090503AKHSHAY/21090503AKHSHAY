@@ -15,7 +15,7 @@
     <p> Uploading videos related to Computer
         Network & Security, Linux , PC Building, Web
         Developing and Tech related videos. Scaled
-        YouTube channel to 115+ Subscribers . <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a> </p> <br>
+        YouTube channel to 170+ Subscribers . <a href="https://www.youtube.com/c/https://www.youtube.com/@techwithakhshay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@techwithakhshay" height="30" width="40" /></a> </p> <br>
 
  
 - 🔭 My Project<br>
@@ -33,7 +33,7 @@
 
 
 
-- 🌱 I’m currently learning **isc2 [CC] , CEH , B.E C.S.E [I year]**
+- 🌱 I’m about give my  CEH exam next month, B.E C.S.E [I year]**
 
 - 💬 Ask me about **Computer Networking,Linux [Debian Distro’s] , Ethical Hacking ,Network Protocols ,Computer Security , Pentesting Tool , PC Building Computer, Hardware & Troubleshooting , Scripting Languages , Frontend Web App**
 
