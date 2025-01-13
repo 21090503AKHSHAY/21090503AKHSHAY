@@ -33,7 +33,7 @@
 
 
 
-- 🌱 I’m about give my  CEH exam next month, B.E C.S.E [I year]**
+- 🌱 I got my CEH , now about to give my CRTP Exam , B.E C.S.E [II year]**
 
 - 💬 Ask me about **Computer Networking,Linux [Debian Distro’s] , Ethical Hacking ,Network Protocols ,Computer Security , Pentesting Tool , PC Building Computer, Hardware & Troubleshooting , Scripting Languages , Frontend Web App**
 
