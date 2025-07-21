@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="/gifs/hacker.gif">
 
 - 👨🏻‍💻 I’m currently working/Intern on<br><br>
-  ** Cyfotok - Pentesting/Bug Hunting ** <br>
+  ** Payatu - Red Teamer ** <br>
   <p> Delving into Ethical Hacking and Bug Hunting. Immersed in
       Pentesting Tools and Security concepts . Such as,
       OSINT , OWASP, Penetration Testing, Exploitation, Vulnerability Assessment, Social Engineering
