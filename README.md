@@ -1,6 +1,6 @@
 No Fancy !! 
 
-I'm a Red Teamer [Security Engineer] , I do maintain in priv repo's . Just dummies in the public repo ..
+I'm a Red Teamer [Security Engineer] , Exclusive content is available only in my private repository :(
 
 Connect : https://www.linkedin.com/in/akhshay-t-p-510b86287/
 
